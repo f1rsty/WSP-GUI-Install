@@ -1,0 +1,26 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\mclaren.org]
+@=""
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap\Domains\mclaren.org\]
+"*"=dword:00000002
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\BrowserEmulation\ClearableListData]
+"UserFilter"=hex:41,1f,00,00,53,08,ad,ba,01,00,00,00,34,00,00,00,01,00,00,00,\
+  01,00,00,00,0c,00,00,00,96,a6,d4,45,01,a9,d5,01,01,00,00,00,0b,00,6d,00,63,\
+  00,6c,00,61,00,72,00,65,00,6e,00,2e,00,6f,00,72,00,67,00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\New Windows]
+"PopupMgr"=dword:00000001
+"Use Anchor Hover Color"="1"
+"UseSecBand"=dword:00000001
+"PlaySound"=dword:00000001
+"BlockUserInit"=dword:00000000
+"UseTimerMethod"=dword:00000000
+"UseHooks"=dword:00000001
+"AllowHTTPS"=dword:00000000
+"BlockControls"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\New Windows\Allow]
+"*.mclaren.org"=hex:00,00

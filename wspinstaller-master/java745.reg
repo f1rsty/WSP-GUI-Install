@@ -1,0 +1,91 @@
+﻿Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft]
+"RegDeployStatus"="0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Plug-in]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Plug-in\10.45.2]
+"JavaHome"="C:\\Program Files (x86)\\Java\\jre7"
+"UseJava2IExplorer"=dword:00000001
+"UseNewJavaPlugin"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Runtime Environment]
+"Java7FamilyVersion"="1.7.0_45"
+"CurrentVersion"="1.7"
+"BrowserJavaVersion"="10.45.2"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Runtime Environment\1.7]
+"JavaHome"="C:\\Program Files (x86)\\Java\\jre7"
+"RuntimeLib"="C:\\Program Files (x86)\\Java\\jre7\\bin\\client\\jvm.dll"
+"MicroVersion"="0"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Runtime Environment\1.7.0_45]
+"JavaHome"="C:\\Program Files (x86)\\Java\\jre7"
+"MicroVersion"="0"
+"RuntimeLib"="C:\\Program Files (x86)\\Java\\jre7\\bin\\client\\jvm.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Runtime Environment\1.7.0_45\MSI]
+"JU"="1"
+"OEMUPDATE"=""
+"MODE"="C"
+"JQS"=""
+"FROMVERSION"="NA"
+"FROMVERSIONFULL"=""
+"PRODUCTVERSION"="7.0.450"
+"INSTALLDIR"="C:\\Program Files (x86)\\Java\\jre7\\"
+"PATCHDIR"=""
+"WEB_JAVA_SECURITY_LEVEL"="M"
+"WEB_JAVA"="1"
+"EULA"="0"
+"IEXPLORER"="0"
+"MOZILLA"="0"
+"JAVAUPDATE"="0"
+"AUTOUPDATECHECK"="0"
+"AUTOUPDATEDELAY"=""
+"ImageCkSum"="486132473"
+"FullVersion"="1.7.0_45-b18"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Update]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Update\Policy]
+"Country"="US"
+"PostStatusUrl"="https://sjremetrics.java.com/b/ss//6"
+"EnableJavaUpdate"=dword:00000000
+"NotifyDownload"=dword:00000000
+"UpdateSchedule"=dword:00000002
+"Frequency"=dword:01120400
+"UpdateMin"=dword:0000002d
+"ScheduleId"="S-1-5"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Web Start]
+"CurrentVersion"="10.45.2"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Web Start\1.0.1]
+"Home"="C:\\Program Files (x86)\\Java\\jre7\\bin"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Web Start\1.0.1_02]
+"Home"="C:\\Program Files (x86)\\Java\\jre7\\bin"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Web Start\1.0.1_03]
+"Home"="C:\\Program Files (x86)\\Java\\jre7\\bin"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Web Start\1.0.1_04]
+"Home"="C:\\Program Files (x86)\\Java\\jre7\\bin"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Web Start\1.2]
+"Home"="C:\\Program Files (x86)\\Java\\jre7\\bin"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Web Start\1.2.0_01]
+"Home"="C:\\Program Files (x86)\\Java\\jre7\\bin"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\JavaSoft\Java Web Start\10.45.2]
+"Home"="C:\\Program Files (x86)\\Java\\jre7\\bin"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{761497BB-D6F0-462C-B6EB-D4DAF1D92D43}]
+"Flags"=dword:00000000
+"Version"="*"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Ext\Settings\{DBC80044-A445-435B-BC74-9C25C1C588A9}]
+"Flags"=dword:00000000
+"Version"="*"
